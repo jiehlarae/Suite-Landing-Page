@@ -26,15 +26,15 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the project](/starter-code/assets/scDesktop.png)
-![Screenshot of the project](/starter-code/assets/scTablet.png)
-![Screenshot of the project](/starter-code/assets/scMobile.png)
+![Screenshot of the project](/assets/scDesktop.png)
+![Screenshot of the project](/assets/scTablet.png)
+![Screenshot of the project](/assets/scMobile.png)
 
 
 ### Links
 
-- [Solution URL](https://github.com/jiehlarae/Suite-landing-page.git)
-- [Live Site URL](https://jiehlarae.github.io/Suite-landing-page/)
+- [Solution URL](https://github.com/jiehlarae/Suite-Landing-Page.git)
+- [Live Site URL](https://jiehlarae.github.io/Suite-Landing-Page/)
 
 ## My Process
 
